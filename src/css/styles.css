@@ -1,3 +1,6 @@
 body {
   background-color: lightblue;
 }
+#isHaiku, #isNotHaiku {
+  display: none;
+}
